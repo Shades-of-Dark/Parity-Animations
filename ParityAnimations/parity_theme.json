@@ -10,8 +10,10 @@
   "accent": {
     "primary": "#38BDF8",
     "secondary": "#7C4DFF",
-    "highlight": "#22D3EE"
-  },
+    "highlight": "#22D3EE",
+    "warm": "#F59E0B",
+    "pop": "#F43F5E"
+},
 
   "semantic": {
     "correct": "#22C55E",
