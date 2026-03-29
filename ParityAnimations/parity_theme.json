@@ -1,0 +1,37 @@
+{
+  "background": "#0F172A",
+
+  "text": {
+    "primary": "#E5E7EB",
+    "secondary": "#94A3B8",
+    "faded": "#64748B"
+  },
+
+  "accent": {
+    "primary": "#38BDF8",
+    "secondary": "#7C4DFF",
+    "highlight": "#22D3EE"
+  },
+
+  "semantic": {
+    "correct": "#22C55E",
+    "incorrect": "#EF4444",
+    "warning": "#F59E0B"
+  },
+
+  "math": {
+    "variable": "#38BDF8",
+    "constant": "#A78BFA",
+    "operator": "#E5E7EB",
+    "highlight": "#22D3EE",
+    "result": "#22C55E"
+  },
+
+  "graph": {
+    "axis": "#64748B",
+    "grid": "#1E293B",
+    "line_primary": "#38BDF8",
+    "line_secondary": "#7C4DFF",
+    "point": "#F43F5E"
+  }
+}
