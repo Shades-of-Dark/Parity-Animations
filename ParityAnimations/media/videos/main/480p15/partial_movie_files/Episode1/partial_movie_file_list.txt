@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/raove/Documents/Github/Parity-Animations/ParityAnimations/media/videos/main/480p15/partial_movie_files/Episode1/3251682577_3178777419_2358810818.mp4'
-file 'file:C:/Users/raove/Documents/Github/Parity-Animations/ParityAnimations/media/videos/main/480p15/partial_movie_files/Episode1/3831958946_509232747_234639288.mp4'
-file 'file:C:/Users/raove/Documents/Github/Parity-Animations/ParityAnimations/media/videos/main/480p15/partial_movie_files/Episode1/3831958946_354208644_479055537.mp4'
-file 'file:C:/Users/raove/Documents/Github/Parity-Animations/ParityAnimations/media/videos/main/480p15/partial_movie_files/Episode1/3831958946_1924262137_4253303699.mp4'
-file 'file:C:/Users/raove/Documents/Github/Parity-Animations/ParityAnimations/media/videos/main/480p15/partial_movie_files/Episode1/3831958946_3841656972_3936002089.mp4'
-file 'file:C:/Users/raove/Documents/Github/Parity-Animations/ParityAnimations/media/videos/main/480p15/partial_movie_files/Episode1/3831958946_3585970359_3747492942.mp4'
